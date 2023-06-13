@@ -1,0 +1,28 @@
+
+    .img {
+        width: 300px;
+        height: 250px;
+    }
+    
+    .bg {
+        background: radial-gradient(rgb(212, 211, 211),rgb(237, 237, 129),rgb(177, 177, 255),rgb(217, 206, 206));
+        height: 790px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    
+    .h {
+        text-align: center;
+        font-family: cursive;
+        font-size: 55px;
+        text-shadow: 2px 2px 5px black;
+    }
+    
+    .ans {
+        text-align: center;
+        color: red;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 38px;
+        text-shadow: 2px 2px 5px black;
+    }
